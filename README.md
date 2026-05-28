@@ -1,20 +1,7 @@
-# Curso Completo de C++ para Programação Competitiva
+C++ para Programação Competitiva
 
-# Objetivo
 
-Este material foi criado para ensinar:
-
-- C++ do básico ao avançado
-- Estruturas de dados
-- STL completa
-- Algoritmos
-- Técnicas de maratona
-- Programação competitiva
-- ICPC / OBI / Codeforces
-
----
-
-# Roadmap do Curso
+# Roadmap 
 
 ## Parte 1 — Fundamentos
 
