@@ -1021,6 +1021,7 @@ Implemente fila.
 
 ## Exercício 9
 
+
 Conte frequência usando map.
 
 ---
@@ -1063,5 +1064,5 @@ Implemente Segment Tree.
 
 ---
 
-#MARKDOWN GERADO POR IA
+# MARKDOWN GERADO POR IA
 
